@@ -6,9 +6,9 @@ import "./insho-styles.css";
 export default function CVOnline() {
   return (
     <section>
-      {/* <Hero /> */}
-      {/* <RiwayatPendidikan /> */}
-      <FavoritColor />
+      <Hero />
+      <RiwayatPendidikan />
+      {/* <FavoritColor /> */}
     </section>
   );
 }
